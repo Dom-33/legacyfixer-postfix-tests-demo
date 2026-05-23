@@ -9,3 +9,4 @@ Expected behavior:
 - post-fix tests are enabled
 - npm ci and npm test pass
 - LegacyFixer opens a reviewable pull request
+LegacyFixer post-fix tests trigger.
